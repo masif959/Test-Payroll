@@ -1,0 +1,26 @@
+{
+  "id": "160c5b9f-c80f-40ed-920e-6b39a463a477",
+  "name": "Test",
+  "publisher": "Mytest",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 80000,
+      "to": 90000
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Test.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
