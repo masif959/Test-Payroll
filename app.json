@@ -1,0 +1,26 @@
+{
+  "id": "fcc6d7c0-f623-429f-b48a-943f16d4f6cd",
+  "name": "Test-Payroll",
+  "publisher": "MyLocalGitTest",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 80000,
+      "to": 90000
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Test-Payroll.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
